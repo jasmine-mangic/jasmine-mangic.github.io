@@ -68,21 +68,12 @@ duties, contributing to compliance reporting, collaborating and supporting colle
 ## Additional Work History 
 
 
-- Project Support Admin - ABL Group/Aqualis
- May 2026 - Jun 2026
-IAG/JLL - Curation & Mailroom Coordinator (Temp)
- Mar 2026 - Mar 2026
-Deximal Property Services - Admin Support Officer
- Oct 2023 - June 2024
-Tax Wise Australia - Administrative Assistant and Reception
- Aug 2023 - Sept 2023
-Marsden Stantons - Client Services Assistant
- Nov 2017 - Jun 2019
-Specialised Tree Lopping - Temporary Admin
- Oct 2017- Oct 2017
-Paterson & Dowding Family Lawyers - Administrative Assistant
- Aug 2017 - Oct 2017
-Satterley Property Group - Office Assistant & Settlement Clerk
- Jun 2016-Jul 201
+- Project Support Admin - ABL Group/Aqualis  May 2026 - Jun 2026
+- IAG/JLL - Curation & Mailroom Coordinator (Temp)  Mar 2026 - Mar 2026
+- Mobile Tax Acounting Firm  - Administrative Assistant and Reception Aug 2023 - Sept 2023
+- Tax Acounting Firm - Client Services Assistant  Nov 2017 - Jun 2019
+- Specialised Tree Lopping - Temporary Admin  Oct 2017- Oct 2017
+- Family Law Firm - Administrative Assistant  Aug 2017 - Oct 2017
+- Satterley Property Group - Office Assistant & Settlement Clerk  Jun 2016-Jul 201
 
 ---
