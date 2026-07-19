@@ -249,3 +249,7 @@ a.sidebar-nav-item:focus {
 .sidebar-nav item {
   display:block;
   margin-borrom 10px
+
+  .page-title {
+  margin-top: 2rem;
+}
