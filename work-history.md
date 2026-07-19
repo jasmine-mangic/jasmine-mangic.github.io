@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Work History
+<br>
+## Work History
 ---
 
 
@@ -36,10 +37,9 @@ and meeting preparation, coordinating inductions and training sessions, booking
 internal and external training, and supporting reporting processes such as
 confidential report preparation, weekly summaries, financial reconciliation,
 regulatory research, and travel coordination.
-- Managed reception and front-of-house operations as the first point of contact,
-handling enquiries via phone, email, and in person, maintaining visitor logs and
-ensuring a professional and customer-focused service environment.
-- Contributed to workplace safety and compliance activities as Incident Controller
+- Managed reception and front-of-house operations as the first point of contact, handling enquiries via phone, email, and in person, maintaining visitor logs and ensuring a professional and customer-focused service environment.
+- Contributed to workplace safety and compliance activities as Incident Controller.
+
 
 ---
 
