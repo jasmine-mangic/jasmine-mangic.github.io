@@ -1,7 +1,7 @@
+<br>
 ---
 layout: page
-<br>
-## Work History
+title: Work History
 ---
 
 
