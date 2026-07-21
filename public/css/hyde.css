@@ -298,3 +298,28 @@ a.sidebar-nav-item:focus {
   color: rgba(255,255,255,.8);
   margin-bottom: 1.5rem;
 }
+
+.sidebar-links {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+
+  display: flex;
+  justify-content: center;
+  gap: 1.2rem;
+}
+
+.sidebar-links a {
+  color: white;
+  font-size: 1.3rem;
+  text-decoration: none;
+}
+
+.sidebar-links a:hover {
+  opacity: .7;
+}
+
+.sidebar-footer {
+  margin-top: 2rem;
+  font-size: .75rem;
+  color: rgba(255,255,255,.5);
+}
