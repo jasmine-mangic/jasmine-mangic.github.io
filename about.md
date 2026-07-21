@@ -3,9 +3,6 @@ layout: page
 title: About
 ---
 
-<p class="message">
-
-
 ## Administration & Business Support Professional
 
 I am an organised and proactive Administration and Business Support professional with 9+ years of experience providing reliable administrative, operational, and customer support across a range of industries.
