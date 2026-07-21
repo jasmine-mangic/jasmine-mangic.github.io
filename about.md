@@ -4,10 +4,7 @@ title: About
 ---
 
 <p class="message">
----
-layout: page
-title: About
----
+
 
 ## Administration & Business Support Professional
 
