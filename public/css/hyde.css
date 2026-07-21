@@ -44,7 +44,15 @@ html {
     font-size: 20px;
   }
 }
-
+@media (min-width: 48em) {
+  .sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    width: 18rem;
+  }
+}
 
 /*
  * Sidebar
@@ -247,9 +255,14 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
-.sidebar-nav item {
-  display:block;
-  margin-borrom 10px
+.sidebar-nav-item {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.page-title {
+  margin-top: 2rem;
+}
 
   .page-title {
   margin-top: 2rem;
