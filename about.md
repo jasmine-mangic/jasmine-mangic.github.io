@@ -9,6 +9,8 @@ I am an organised and proactive Administration and Business Support professional
 
 I specialise in supporting teams through effective coordination, document management, compliance support, reporting, stakeholder communication, and process improvement.
 
+I enjoy being the person colleagues can rely on to keep things organised, solve day-to-day administrative challenges, and help teams stay focused on their work.
+
 Throughout my career, I have supported busy workplaces by managing competing priorities, improving administrative processes, maintaining accurate records, and providing professional service to internal teams, clients, and customers.
 
 ## Professional Strengths
