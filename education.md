@@ -19,6 +19,9 @@ Office of the Australian Information Commissioner (OAIC)
 2024
 
 ## Certifications 
+
+In addition to my formal qualifications, I maintain a range of workplace safety and industry certifications relevant to administrative support in construction, project, and operational environments.
+
 - Provide First Aid (HLTAID011) - St Johns First Aid (Dec 2024)
 - Demonstrate First Attack Firefighting Equipment - KI Training (Dec 2024)
 - WA Construction White Card - InScope Training (Dec 2024)
