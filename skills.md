@@ -6,24 +6,24 @@ title: Skills
 ## Administrative Skills
 
 - Organisation & Adaptability
-- Ability to work both autonomously and collaborate in a team
+- Ability to work independently and collaboratively within a team
 - Calendar, phone and email management
-- Excellent telephone skills with a professional and personable manner
-- Minor training event coordination, booking training for staff
-- Signing on new clients over the phone or web queries
+- Professional telephone manner and customer service
+- Training and meeting coordination, including booking internal and external training
+- Client onboarding and enquiry management
 - Resolving client and customer enquiries over the phone and by email
-- Clear and professional communication
+- Clear written and verbal communication
 - Ability to prioritise tasks and balance combined duties of Admin & Reception. 
 - Ability to adapt to using different software applications.
 
 ## Software Skills
 
-- Proficient in Microsoft Office (Word, Excel, Outlook, Teams)
-- Proficient with the Google Workspace (Calendar,Gmail & Tasks & Keeps)
+- Microsoft Office (Word, Excel, Outlook, Teams)
+- Google Workspace (Calendar, Gmail, Keep & Tasks)
 - Proficient with adapting to organisation specific database software
-- Daily use & communication with ChatGPT and AI software for automating basic tasks & content creation.
+- AI tools (including ChatGPT) for administrative support, drafting and content creation
 - Exposure to MYOB Essentials & Xero accounting software
-- Exposure to ERP software Netsuite
+- Exposure to ERP software: Netsuite
 - Exposure to Document control portals: InEight software, Pims Document Control and PTS.
-- Asana Project Management Foundations certified
+- Asana Project Management Foundations Certified
 - Exposure to Canva & Photoshop
